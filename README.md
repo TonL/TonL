@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Andrey 👋
 
 <!--
 **TonL/TonL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TonL)  
+
+![Profile views](https://gpvc.arturio.dev/TonL)  
